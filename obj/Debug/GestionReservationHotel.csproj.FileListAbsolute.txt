@@ -1,0 +1,13 @@
+E:\LSI4\Dot_net\GestionReservationHotel\bin\Debug\GestionReservationHotel.exe.config
+E:\LSI4\Dot_net\GestionReservationHotel\bin\Debug\GestionReservationHotel.exe
+E:\LSI4\Dot_net\GestionReservationHotel\bin\Debug\GestionReservationHotel.pdb
+E:\LSI4\Dot_net\GestionReservationHotel\obj\Debug\GestionReservationHotel.ControlUtilisateur.UC_Chambre.resources
+E:\LSI4\Dot_net\GestionReservationHotel\obj\Debug\GestionReservationHotel.ControlUtilisateur.UC_Hotel.resources
+E:\LSI4\Dot_net\GestionReservationHotel\obj\Debug\GestionReservationHotel.Properties.Resources.resources
+E:\LSI4\Dot_net\GestionReservationHotel\obj\Debug\GestionReservationHotel.csproj.GenerateResource.cache
+E:\LSI4\Dot_net\GestionReservationHotel\obj\Debug\GestionReservationHotel.csproj.CoreCompileInputs.cache
+E:\LSI4\Dot_net\GestionReservationHotel\obj\Debug\GestionReservationHotel.exe
+E:\LSI4\Dot_net\GestionReservationHotel\obj\Debug\GestionReservationHotel.pdb
+E:\LSI4\Dot_net\GestionReservationHotel\obj\Debug\GestionReservationHotel.ControlUtilisateur.ReservationWindow.resources
+E:\LSI4\Dot_net\GestionReservationHotel\obj\Debug\GestionReservationHotel.ReservationChambre.resources
+E:\LSI4\Dot_net\GestionReservationHotel\obj\Debug\GestionReservationHotel.csprojAssemblyReference.cache
